@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankeshh" alt="priyankeshh" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, Node.js, seaborn**
+- 🌱 I’m currently learning **AI, ML, DL**
 
 - 📫 How to reach me **priyankeshom@gmail.com**
 
