@@ -19,4 +19,28 @@
 
 [![An image of @priyankeshh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyankeshh)](https://holopin.io/@priyankeshh)
 
+<h3 align="left">GSSoC 2024:</h3>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <a href="https://github.com/user-attachments/assets/91e78158-538a-4011-8346-4fd81a93b70f"> 
+    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  </a>
+
+<a href="https://github.com/user-attachments/assets/a7f4c905-daa3-44f6-b677-be0a8ec2d37f">
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+</a>
+<a href="https://github.com/user-attachments/assets/18f0d298-0414-464d-a691-79887cb6ead8">
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+</a>
+<a href="https://github.com/user-attachments/assets/faacdf60-74f0-4dbe-8be1-2c42524751ab">
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+</a>
+<a href="https://github.com/user-attachments/assets/429af881-6456-4e01-84b1-d5aa5cc6f050">
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+</a>
+
+</div>
+
+<br>
+<br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankeshh&show_icons=true&locale=en&layout=compact" alt="priyankeshh" /></p>
