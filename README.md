@@ -37,6 +37,10 @@
 <a href="https://github.com/user-attachments/assets/429af881-6456-4e01-84b1-d5aa5cc6f050">
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
 </a>
+<a href="https://github.com/user-attachments/assets/e5945ea7-8d59-451c-8fac-c483203ca08b">
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+</a>
+
 
 </div>
 
