@@ -19,29 +19,15 @@
 
 [![An image of @priyankeshh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyankeshh)](https://holopin.io/@priyankeshh)
 
-<h3 align="left">GSSoC 2024:</h3>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <a href="https://github.com/user-attachments/assets/91e78158-538a-4011-8346-4fd81a93b70f"> 
-    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  </a>
-
-<a href="https://github.com/user-attachments/assets/a7f4c905-daa3-44f6-b677-be0a8ec2d37f">
-  <img src="https://private-user-images.githubusercontent.com/30715153/334789435-f3045ade-446f-46d8-a730-05f9f2ca9ecf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc3MjcyMDMsIm5iZiI6MTczNzcyNjkwMywicGF0aCI6Ii8zMDcxNTE1My8zMzQ3ODk0MzUtZjMwNDVhZGUtNDQ2Zi00NmQ4LWE3MzAtMDVmOWYyY2E5ZWNmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI0VDEzNTUwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ0OGQ0Mjc4YzdhMzBmNzU4YTg1Y2NjYWFkOWM4OThhMGEwYThiYmIyZTQ4YjkwNTg1Y2FlODZmYWMxNDg4MjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jMNd-F-ggM-8TZhfQNyEuZBszETJKRagQUVofeQn28E" width="100px" height="100px" />
-</a>
-<a href="https://github.com/user-attachments/assets/18f0d298-0414-464d-a691-79887cb6ead8">
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-</a>
-<a href="https://github.com/user-attachments/assets/faacdf60-74f0-4dbe-8be1-2c42524751ab">
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-</a>
-<a href="https://github.com/user-attachments/assets/429af881-6456-4e01-84b1-d5aa5cc6f050">
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-</a>
-<a href="https://github.com/user-attachments/assets/e5945ea7-8d59-451c-8fac-c483203ca08b">
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-</a>
-
-
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="120px" height="120px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="120px" height="120px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="120px" height="120px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="120px" height="120px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="120px" height="120px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="120px" height="120px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="120px" height="120px" />
 </div>
 
 <br>
