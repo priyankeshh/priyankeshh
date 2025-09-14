@@ -6,7 +6,7 @@
 
 ## 🚀 What I'm About
 
-I'm passionate about building **AI systems** that actually solve real problems. Currently working on OCR pipelines and RAG architectures as a **Google Summer of Code 2025** contributor at Extralit. When I'm not training models or debugging pipelines, you'll find me annoying my cat or playing my guitar.
+I'm passionate about building **AI systems** that actually solve real problems. Currently working on OCR pipelines and RAG architectures as a **Google Summer of Code 2025** contributor at Extralit. When I'm not training models, you'll find me annoying my cat or playing my guitar.
 
 ```python
 class Priyankesh:
@@ -52,13 +52,13 @@ class Priyankesh:
 
 ## 🔥 Featured Projects
 
-### 🔬 [Deep Research AI Agent](https://github.com/priyankeshh)
+### 🔬 [Deep Research AI Agent](https://github.com/priyankeshh/deep-research-agent)
 Multi-stage AI system that processes 50+ web sources simultaneously and generates research reports in minutes instead of hours. Built with custom agents, MCP integration, and achieving 90%+ citation accuracy.
 
-### 🌐 [AI-Powered Web Scraper](https://github.com/priyankeshh)
+### 🌐 [AI-Powered Web Scraper](https://github.com/priyankeshh/web-scraper)
 Concurrent data pipeline processing 1000+ URLs with 95% extraction accuracy. Integrates multiple LLM APIs (GPT-4, Gemini, Llama) with smart Pydantic schemas.
 
-### 🤖 [Samvaad - Discord AI Chatbot](https://huggingface.co/priyankeshh)
+### 🤖 [Samvaad - Discord AI Chatbot](https://huggingface.co/PreeBoii/DialoGPT-medium-pree)
 Fine-tuned DialoGPT-medium (117M parameters) with 7-message context windowing. Deployed on Hugging Face with optimized inference and conversation memory.
 
 ---
