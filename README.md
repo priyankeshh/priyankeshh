@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Priyankesh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Open+Source+Lover;Building+Smart+Systems;GSoC+2025+%40+Extralit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Open+Source;Building+Smart+Systems;GSoC+2025+%40+Extralit" alt="Typing SVG" />
 </div>
 
 ## 🚀 What I'm About
