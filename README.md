@@ -34,7 +34,7 @@ class Priyankesh:
 
 ## 🛠️ What I Work With
 
-**Core Stack:** Python • PyTorch • TensorFlow • Scikit-learn  
+**Core Stack:** Python • PyTorch • PyTorch • TensorFlow • Scikit-learn  
 **Data & ML Ops:** Pandas • Redis • Elasticsearch • Streamlit  
 **Deployment:** Docker • Hugging Face • Power BI • Git
 
